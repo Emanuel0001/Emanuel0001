@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Emanuel Hitallo 
 
 
-- 🔭 Atualmente estudando desenvolvimento Front-end
-- 🌱 Estudando Ingles 
+- 🔭 Apaixonado por desenvolvimento Front-end
+- 🌱 Estou estudando Ingles 
 - 📫 Contate-me no email: hitallosoares1@gmail.com
 
 <div align="center">
