@@ -33,8 +33,10 @@
    ###  Sistema de Usuários
   ![Captura de tela de 2022-07-07 11-16-31](https://user-images.githubusercontent.com/100162081/197020104-e17249cd-3f35-4a77-b995-85dbc0264bf2.png)
 
- ### Imagens Sistema Supermercado desenvolvido na faculdade
+ ### Imagens Sistema Supermercado
   
   ![51736559577_3afa1552d0_c](https://user-images.githubusercontent.com/100162081/197021288-14a9dbb5-27c7-4536-a988-a02e3ae55c79.jpg) 
+  
   ![51737380431_e635ff6820_s](https://user-images.githubusercontent.com/100162081/197021292-2b912aed-2e7d-4e8b-8b72-a7bd3bc8ee07.jpg)
+  
   ![51737618608_fc014e6b9c_s](https://user-images.githubusercontent.com/100162081/197021295-b8a57ba1-c134-4f2f-9d37-0f0e0b2d5354.jpg)
