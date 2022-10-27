@@ -35,7 +35,7 @@
   #### Descrição
    Projeto este, tem como objetivo ser uma calculara simples de IMC(Índice de Massa Corporal) de facil
   usabilidade e 100% online. 
-  Criado no século 19 pelo matemático Lambert Quételet, o Índice de Massa Corporal, conhecido pela sigla IMC, é um cálculo simples que permite medir se     alguém está ou não com o peso ideal. Ele aponta se o peso está adequado ou se está abaixo ou acima do peso.
+  Criado no século 19 pelo matemático Lambert Quételet, o Índice de Massa Corporal, conhecido pela sigla IMC, é um cálculo simples que permite medir se       alguém está ou não com o peso ideal. Ele aponta se o peso está adequado ou se está abaixo ou acima do peso.
   #### Oque utilizei?
   HTML <br>
   CSS <br>
@@ -45,7 +45,19 @@
   
    ###  Sistema de Usuários
   ![Captura de tela de 2022-07-07 11-16-31](https://user-images.githubusercontent.com/100162081/197020104-e17249cd-3f35-4a77-b995-85dbc0264bf2.png)
-
+   #### Descrição
+  Projeto de Sistema de Usuário tem como objetivo demonstrar minhas habilidades, com ele é possivel fazer cadastro do usuario em seguida fazer o login,
+  na tela dashboard é possivel verificar a lista de todos os usuarios do sistema contendo seu email, nome e foto de perfil de todos usuarios.
+  
+   #### Oque utilizei?
+  HTML <br>
+  CSS <br>
+  Javascript <br>
+  React state <br>
+  Node <br>
+  Express <br>
+  JWT cookie <br
+  Base64 <br>
  ### Imagens Sistema Supermercado
   
   ![51736559577_3afa1552d0_c](https://user-images.githubusercontent.com/100162081/197021288-14a9dbb5-27c7-4536-a988-a02e3ae55c79.jpg) 
