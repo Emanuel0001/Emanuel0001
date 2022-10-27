@@ -27,8 +27,11 @@
   
   ![Captura de tela de 2022-10-20 14-39-46](https://user-images.githubusercontent.com/100162081/197020053-6b2c74e8-9bcd-4d2c-8800-396462bba183.png)
   #### Descrição
-  Projeto desenvolvido apenas com HTML e CSS, Site 100% responsivo com intuito de demonstrar minhas habilidades no frontend como também servir de 
-  carta de aprensentação online.
+  Projeto desenvolvido apenas com HTML e CSS, Site 100% responsivo, o Projeto ainda conta com outros projetos que desenvolvi ao longo dos meus periodos de 
+  estudos de programação nesses ultimos meses. tem como objetivos demonstrar minhas habilidades no desenvolvimento frontend e também servir como meu         curriculo online.
+  #### Oque utilizei?
+  HTML <br>
+  CSS <br>
   
   ###  Calculadora IMC
   ![Captura de tela de 2022-10-17 14-53-54](https://user-images.githubusercontent.com/100162081/197020047-525f3e6a-4a05-49d8-8454-5d5a40e0a332.png)
@@ -62,3 +65,9 @@
   
   ![51736559577_3afa1552d0_c](https://user-images.githubusercontent.com/100162081/197021288-14a9dbb5-27c7-4536-a988-a02e3ae55c79.jpg) 
   
+  #### Descrição
+  Sistema de supermecado foi um projeto que desenvolvi no ultimo periodo da faculdade de sistemas de informação na disciplina de desenvolvimento web, O projeto conta com varias funções como controle de estoque, cadastro de clientes, tela simplificada de vendas alem de gerar o nota contendo tudo que foi comprado com valor da compra, o projeto conta também com cadastro de usuario sendo possivel alterar a senha do administrador e adcionar novos usuarios. dediquei muito nesse projeto aprendi muito porém pela complexidade do projeto e como eu sou desenvolvedor iniciante acabei não terminando de desenvolver todas as funções. como cadastro de codigo de barras e implementar o perifico que faria a leitura do mesmo. 
+  #### Oque utilizei?
+  HTML <br>
+  CSS <br>
+  PHP <br>
