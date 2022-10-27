@@ -59,7 +59,7 @@
   React state <br>
   Node <br>
   Express <br>
-  JWT cookie <br
+  JWT cookie <br>
   Base64 <br>
  ### Imagens Sistema Supermercado
   
