@@ -28,7 +28,7 @@
   ![Captura de tela de 2022-10-20 14-39-46](https://user-images.githubusercontent.com/100162081/197020053-6b2c74e8-9bcd-4d2c-8800-396462bba183.png)
   #### Descrição
   Projeto desenvolvido apenas com HTML e CSS, Site 100% responsivo, o Projeto ainda conta com outros projetos que desenvolvi ao longo dos meus periodos de 
-  estudos de programação nesses ultimos meses. tem como objetivos demonstrar minhas habilidades no desenvolvimento frontend, O objetivo principal e servir  como carta de apresentação para o mercado de trabalho.
+  estudos de programação nesses ultimos meses. tem como objetivos demonstrar minhas habilidades no desenvolvimento frontend, O objetivo principal e servir  como carta de apresentação ao mercado de trabalho.
   #### Oque utilizei?
   HTML <br>
   CSS <br>
