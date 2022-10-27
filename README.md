@@ -49,7 +49,7 @@
    ###  Sistema de Usuários
   ![Captura de tela de 2022-07-07 11-16-31](https://user-images.githubusercontent.com/100162081/197020104-e17249cd-3f35-4a77-b995-85dbc0264bf2.png)
    #### Descrição
-  Projeto de Sistema de Usuário tem como objetivo demonstrar minhas habilidades, com ele é possivel fazer cadastro do usuario em seguida fazer o login,
+  Projeto Sistema de Usuário tem como objetivo demonstrar minhas habilidades, com ele é possivel fazer cadastro do usuario em seguida fazer o login,
   na tela dashboard é possivel verificar a lista de todos os usuarios do sistema contendo seu email, nome e foto de perfil de todos usuarios.
   
    #### Oque utilizei?
