@@ -33,8 +33,9 @@
   ###  Calculadora IMC
   ![Captura de tela de 2022-10-17 14-53-54](https://user-images.githubusercontent.com/100162081/197020047-525f3e6a-4a05-49d8-8454-5d5a40e0a332.png)
   #### Descrição
-   Projeto este, tem como objetivo ser uma calculara simples de IMC(indice de massa corporal) de facil
-  usabilidade e 100% online
+   Projeto este, tem como objetivo ser uma calculara simples de IMC(Índice de Massa Corporal) de facil
+  usabilidade e 100% online. 
+  Criado no século 19 pelo matemático Lambert Quételet, o Índice de Massa Corporal, conhecido pela sigla IMC, é um cálculo simples que permite medir se     alguém está ou não com o peso ideal. Ele aponta se o peso está adequado ou se está abaixo ou acima do peso.
   #### Oque utilizei?
   HTML <br>
   CSS <br>
