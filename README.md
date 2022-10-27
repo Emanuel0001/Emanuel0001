@@ -26,7 +26,9 @@
   ###  Portifólio
   
   ![Captura de tela de 2022-10-20 14-39-46](https://user-images.githubusercontent.com/100162081/197020053-6b2c74e8-9bcd-4d2c-8800-396462bba183.png)
-  
+  #### Sobre
+  Projeto desenvolvido apenas com HTML e CSS, site 100% responsivo com intuito de demonstrar minhas habilidades no frontend como também servir de 
+  curriculo.
   ###  Calculadora IMC
   ![Captura de tela de 2022-10-17 14-53-54](https://user-images.githubusercontent.com/100162081/197020047-525f3e6a-4a05-49d8-8454-5d5a40e0a332.png)
   
