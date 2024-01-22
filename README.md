@@ -27,12 +27,14 @@
   ### Portifólio
   
   ![portifolioPGFull](https://github.com/Emanuel0001/Emanuel0001/assets/100162081/42d23ac6-d2c8-4e26-8cf0-f89003a45ea7)
-  #### Descrição
-  Projeto desenvolvido apenas com HTML e CSS, Site 100% responsivo, o Projeto ainda conta com outros projetos que desenvolvi ao longo dos meus periodos de 
-  estudos de programação nesses ultimos meses. tem como objetivos demonstrar minhas habilidades no desenvolvimento frontend, O objetivo principal e servir  como carta de apresentação ao mercado de trabalho.
-  #### Oque utilizei?
+   ## Descrição:
+  Apresento um projeto desenvolvido exclusivamente com HTML e CSS, destacando-se por ser totalmente responsivo. Além de ser uma demonstração prática de habilidades de desenvolvimento front-end, o site inclui outros projetos que desenvolvi ao longo dos últimos meses durante meu período de estudos em programação. A intenção principal é utilizá-lo como uma carta de apresentação ao mercado de trabalho.
+
+  ## Recursos Utilizados:
+
   HTML <br>
   CSS <br>
+  Este projeto não apenas evidencia minha competência no desenvolvimento de interfaces responsivas, mas também reflete meu comprometimento com o aprimoramento     contínuo e a busca por excelência no campo do desenvolvimento web.
   
   ###  Calculadora IMC
   ![Captura de tela de 2022-10-17 14-53-54](https://user-images.githubusercontent.com/100162081/197020047-525f3e6a-4a05-49d8-8454-5d5a40e0a332.png)
