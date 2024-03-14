@@ -24,32 +24,8 @@
   </div>
   <br>
   <div align="center" style="display: inline_block"> <h2> Meus Projetos </h2></div>
-  
-  ### Portifólio
-  
-  ![portifolioPGFull](https://github.com/Emanuel0001/Emanuel0001/assets/100162081/42d23ac6-d2c8-4e26-8cf0-f89003a45ea7)
-   ## Descrição:
-  Apresento um projeto desenvolvido exclusivamente com HTML e CSS, destacando-se por ser totalmente responsivo. Além de ser uma demonstração prática de habilidades de desenvolvimento front-end, o site inclui outros projetos que desenvolvi ao longo dos últimos meses durante meu período de estudos em programação. A intenção principal é utilizá-lo como uma carta de apresentação ao mercado de trabalho.
 
-  ## Recursos Utilizados:
 
-  HTML <br>
-  CSS <br>
-  Este projeto não apenas evidencia minha competência no desenvolvimento de interfaces responsivas, mas também reflete meu comprometimento com o aprimoramento     contínuo e a busca por excelência no campo do desenvolvimento web.
-  
-  ###  Calculadora IMC
-  ![Captura de tela de 2022-10-17 14-53-54](https://user-images.githubusercontent.com/100162081/197020047-525f3e6a-4a05-49d8-8454-5d5a40e0a332.png)
-  #### Descrição
-   Projeto este, tem como objetivo ser uma calculara simples de IMC(Índice de Massa Corporal) de facil
-  usabilidade e 100% online. 
-  Criado no século 19 pelo matemático Lambert Quételet, o Índice de Massa Corporal, conhecido pela sigla IMC, é um cálculo simples que permite medir se       alguém está ou não com o peso ideal. Ele aponta se o peso está adequado ou se está abaixo ou acima do peso.
-  #### Oque utilizei?
-  HTML <br>
-  CSS <br>
-  Javascript <br>
-  React state <br>
-  Node <br>
-  
    ###  Sistema de Usuários
   ![Captura de tela de 2022-07-07 11-16-31](https://user-images.githubusercontent.com/100162081/197020104-e17249cd-3f35-4a77-b995-85dbc0264bf2.png)
    #### Descrição
