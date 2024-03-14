@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Emanuel Hitallo 
 
-- 💻 Desenvolvedor node|react
+- 💻 Desenvolvedor Node.js|React.js
 - 🔭 Apaixonado por desenvolvimento de Software;
 - 🌱 Estou estudando Inglês;
 - 🙂 Aprendendo TypeScript
