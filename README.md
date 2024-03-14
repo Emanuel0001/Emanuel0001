@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Emanuel Hitallo 
 
-💻 Desenvolvedor node|react
-🔭 Apaixonado por desenvolvimento de Software;
-🌱 Estou estudando Inglês;
-🙂 Aprendendo TypeScript
-📫 Contate-me no email: hitallosoares1@gmail.com;
+- 💻 Desenvolvedor node|react
+- 🔭 Apaixonado por desenvolvimento de Software;
+- 🌱 Estou estudando Inglês;
+- 🙂 Aprendendo TypeScript
+- 📫 Contate-me no email: hitallosoares1@gmail.com;
 
 <div align="center">
   <a href="https://github.com/Emanuel0001">
