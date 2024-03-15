@@ -1,4 +1,4 @@
-### Olá! Eu sou o Emanuel Hitallo 
+## Olá! Eu sou o Emanuel Hitallo 
  
 - 💻 Desenvolvedor Node.js | React.js
 - 🔭 Apaixonado por desenvolvimento de Software;
