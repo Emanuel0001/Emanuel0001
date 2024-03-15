@@ -8,13 +8,6 @@
   
 
 <div align="center">
-
-<a href="[https://www.youtube.com/seu-canal-youtube-aqui](https://www.youtube.com/@hitallosoares7289/featured)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "hitallosoares1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/emanuel-hitallo-06690a16b/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div align="center">
   <a href="https://github.com/Emanuel0001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel0001&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel0001&layout=compact&langs_count=7&theme=chartreuse-dark"/>
