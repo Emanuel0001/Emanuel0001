@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Emanuel Hitallo 
- 
+
+- 🐍  Mergulhando no Universo Python | Django;
 - 💻 Desenvolvedor Node.js | React.js
 - 🔭 Apaixonado por desenvolvimento de Software;
 - 🌱 Estou estudando Inglês;
